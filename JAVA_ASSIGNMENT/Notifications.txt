@@ -1,0 +1,2 @@
+C001;Your order has been created check order page;Read
+C001;Your order has been created check order page;Read

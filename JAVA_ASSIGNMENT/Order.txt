@@ -1,0 +1,8 @@
+ORD1;VND001;CSTM2;ITM3;1/21/2025;Delivery;12:00 pm;10 min;30.59;Accepted
+ORD2;VND002;CSTM3;ITM4;2/19/2025;Take Away;1:35 pm;15 min;20.99;Cancelled
+ORD3;VND003;CSTM4;ITM5;2/18/2025;Delivery;10:10 pm;10 min;25.50;Accepted
+ORD4;VND003;CSTM5;ITM6;2/15/2025;Dine-In;11:45 am;20 min;45.60;In Kitchen
+ORD5;VND004;CSTM6;ITM7;2/19/2025;Take Away;2:10 pm;15 min;30.29;Out of Delivery
+ORD6;VND004;CSTM7;ITM8;2/16/2025;Delivery;3:50 pm;10 min;15.45;Complete
+501;C001;Pizza 1x;1;2025-02-23;Complete
+502;C001;Pizza 1x;1;2025-02-23;Complete

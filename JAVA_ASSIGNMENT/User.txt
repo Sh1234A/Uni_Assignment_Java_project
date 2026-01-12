@@ -1,0 +1,6 @@
+A001;admin;password;Mariyam Mayan;mayan@gmail.com;12345;please;Administrator
+C001;bisma;altaf;Bisma Altaf;bisma12@gmail.com;12345;one south;Customer
+V002;snacky47;snacky2363;SNacky;snack@gmail.com;3752363;South City;Vendor
+V003;delish68;delish3726;Delish;d@gmail.com;23726;Place;Vendor
+C002;bisma81;woo4242;Bisma Woo;bisma@gmail.com;234242;Place;Customer
+M001;serena31;mbewe2242;serena mbewe;serena2@gmail.com;32242;Place;Manager
